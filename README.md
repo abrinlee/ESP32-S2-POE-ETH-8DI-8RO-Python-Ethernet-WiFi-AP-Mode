@@ -1,4 +1,4 @@
-# ESP32-S2-POE-ETH-8DI-8RO-Python-Ethernet-WiFi-AP-Mode
+# ESP32-S3-POE-ETH-8DI-8RO-Python-Ethernet-WiFi-AP-Mode
 This is based on the Waveshare ESP32-S3-POE-ETH-8RO-8DI module shown below.
 
 
